@@ -29,4 +29,5 @@ Y una breve descripción sobre en que se basa c/u al proporcionar productos.
 
 ## Evidencia
 
-<img width="329" height="577" alt="image" src="https://github.com/user-attachments/assets/6c29187c-7528-483a-9d94-1e3e95f585d2" />
+<img width="344" height="589" alt="image" src="https://github.com/user-attachments/assets/4fd924bf-ec9d-4aa5-9e1f-4be9badf9cd7" />
+
