@@ -1,19 +1,30 @@
 # IAMoviles-UII-Act-2-Tarjetas-en-columnas_DeLaRosaAbril-6I
 De La Rosa Rojas Abril 6I. Imagenes y Códificación.
 
-# myapp
+## Prompt
 
-A new Flutter project.
+Trabajo: IAMoviles UII  Act 2 Tarjetas en columnas
 
-## Getting Started
+Lenguaje:
+* Dart, Flutter. Firebase.
 
-This project is a starting point for a Flutter application.
+Imagen Adjuntada:
 
-A few resources to get you started if this is your first Flutter project:
+<img width="794" height="422" alt="image" src="https://github.com/user-attachments/assets/78b2d331-7597-466b-90d0-d7225e8cc89c" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Distribución: 
+* Vamos a generar 5 tarjetas en una columna. Las tarjetas deberán estar centrada en la pantalla. Tendrán un espacio entre ellas. A la Izquierda de la tarjeta habrá una imagen formato Icon que será sacada de la red (URL de Github). Luego se pondrá texto, según el negocio que se maneja (en este caso Parisina, Tienda de Telas y Costura).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Imagenes Sacadas de: 
+* https://github.com/DeLaRosaRojas/Imagenes-Parisina_De-La-Rosa-6I.git
+
+Habrá la siguiente información en las tarjetas:
+1. Telas
+2. Hilos
+3. Botones
+4. Vestir
+5. Maquinaria 
+
+Y una breve descripción sobre en que se basa c/u al proporcionar productos.
+
+## Evidencia
